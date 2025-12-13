@@ -6,7 +6,7 @@ This repository contains a Malayalam language dataset created for NLP and educat
 - Malayalam–English word pairs
 - Part-of-speech tags
 - Example sentences
-- PDF documents containing: Topic-based Malayalam word lists
+- PDF document containing: Topic-based Malayalam word lists
 
 ## Usage
 Feel free to download, modify and contribute.
